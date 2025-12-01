@@ -1,0 +1,6 @@
+gradio
+opencv-python
+tqdm
+transformers
+openai
+torch
